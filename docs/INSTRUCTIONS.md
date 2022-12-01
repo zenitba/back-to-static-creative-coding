@@ -1,22 +1,22 @@
 
-# [Sprintnaam] - [Deeltaak-naam]
+# Back to Static - Creative Coding
 
-[Beschrijving van de deeltaak]
+Ontwerp en maak creatieve oplossingen voor de interface.
 
 ## Context
 
-Deze deeltaak hoort bij sprint # [Sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint # 17 Back to Static. 
+Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop [[Workshopnaam](link)] wordt behandeld ... 
+In de workshop S17W1-02-Creative-Coding wordt de opdracht uitgelegd.
 
 Deze deeltaak hoort bij de leertaak:
-- [[leertaak](link)]
+- [bback-to-static-static-side-generation](https://github.com/fdnd-task/back-to-static-static-site-generation)
 
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Je leert hoe je client-side met JS en CSS creatieve oplossing kan maken die een interface verrijken.
 
 
 ## Werkwijze
@@ -95,10 +95,10 @@ Uitleg..
 
 ## Criteria
 
-Focus sprint # - De focus van deze sprint ligt op ...
+Focus sprint 17 - De focus van deze sprint ligt op het generen van statische web pagina's. 
 
 Deze deeltaak hoort bij het gedragscriterium:  
-...
+Lerend vermogen: De student maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen.
 
 Deze opdracht is done als:
 
