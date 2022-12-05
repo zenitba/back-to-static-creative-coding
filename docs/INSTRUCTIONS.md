@@ -11,7 +11,7 @@ Dit is een deeltaak die je individueel uitvoert.
 In de workshop S17W1-02-Creative-Coding wordt de opdracht uitgelegd.
 
 Deze deeltaak hoort bij de leertaak:
-- [back-to-static-static-side-generation](https://github.com/fdnd-task/back-to-static-static-site-generation)
+- [back-to-static-site-generation](https://github.com/fdnd-task/back-to-static-static-site-generation)
 
 
 ## Doel van deze opdracht
