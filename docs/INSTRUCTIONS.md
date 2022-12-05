@@ -16,16 +16,21 @@ Deze deeltaak hoort bij de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert hoe je client-side met JS en CSS creatieve oplossing kan maken die een interface verrijken.
+Je leert hoe je met CSS en client-side JS creatieve oplossing voor de interface kan ontwerpen en maken.
 
 
 ## Werkwijze
 
-![Opdrachtomschrijving](opdrachtomschrijving.png)
+> Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. - [Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+Voor de opdracht van de opdrachtgever ga je creatieve oplossigen voor de interface ontwerpen en maken. Nu de website statisch gegenereerd wordt kun je al je skills inzetten om de interface te verrijken. De bedoeling is dat de gebruiker "oooh" en "aaaah" roept en niet meer kan stoppen met klikken ... 
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+Vooral met micro-interacties kun je flink uitpakken. 
+
+> Micro-interactions communicate status and provide feedback, enhance the sense of direct manipulation, help people visualize the results of their actions.
+
+Bekijk hier de website [7 secrets for enhancing UX with micro-interactions](https://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/) voor leuke voorbeelden en inspiratie.
+
 
 ### Analyseren
 Uitleg..
