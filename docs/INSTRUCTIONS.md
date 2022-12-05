@@ -21,7 +21,7 @@ Je leert hoe je met CSS en client-side JS creatieve oplossing voor de interface 
 
 ## Werkwijze
 
-> Creative coding is a type of computer programming in which the goal is to create something expressive. - [Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
+> Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. - [Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
 
 Voor de opdracht van de opdrachtgever ga je creatieve oplossigen voor de interface ontwerpen en maken. Nu de website statisch gegenereerd wordt kun je al je skills inzetten om de interface te verrijken. De bedoeling is dat je gebruikers "oooh" en "aaaah" roepen en niet meer kunnen stoppen met klikken!
 
