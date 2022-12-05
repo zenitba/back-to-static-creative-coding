@@ -23,7 +23,7 @@ Je leert hoe je met CSS en client-side JS creatieve oplossing voor de interface 
 
 > Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. - [Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
 
-Voor de opdracht van de opdrachtgever ga je creatieve oplossigen voor de interface ontwerpen en maken. Nu de website statisch gegenereerd wordt kun je al je skills inzetten om de interface te verrijken. De bedoeling is dat de gebruiker "oooh" en "aaaah" roept en niet meer kan stoppen met klikken ... 
+Voor de opdracht van de opdrachtgever ga je creatieve oplossigen voor de interface ontwerpen en maken. Nu de website statisch gegenereerd wordt kun je al je skills inzetten om de interface te verrijken. De bedoeling is dat je gebruikers "oooh" en "aaaah" roepen en niet meer kunnen stoppen met klikken!
 
 Vooral met micro-interacties kun je flink uitpakken. 
 
@@ -32,18 +32,7 @@ Vooral met micro-interacties kun je flink uitpakken.
 Bekijk hier de website [7 secrets for enhancing UX with micro-interactions](https://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/) voor leuke voorbeelden en inspiratie.
 
 
-### Analyseren
-Uitleg..
 
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ### Ontwerpen
 Uitleg..
@@ -72,19 +61,8 @@ Uitleg..
 - [bron]
 - [bron]
 
-### Integreren
-Uitleg..
 
-#### Aanpak
 
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
 ### Testen
 Uitleg..
 
@@ -107,7 +85,7 @@ Lerend vermogen: De student maakt aangeboden en zelf gevonden materie eigen, geb
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
+- [ ] Je hebt 3 creative-coding experimenten ontworpen en gemaakt
+- [ ] Je hebt inde wuku  
 - [ ] ...
 
