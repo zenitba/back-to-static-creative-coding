@@ -36,7 +36,7 @@ Elke week ga je een creatieve oplossing ontwerpen en maken, en op vrijdag testen
 ## Aanpak
 
 1. Kies of bedenk een experiment om te gaan maken
-2. Zoek inspiratie en schets een aantal ideeen uit in een wireflow
+2. Zoek inspiratie en schets (snel) een aantal ideeen uit in een wireflow
 4. Maak een breakdown-schets met hoe je het experiment in code zou kunnen maken
 5. Bouw je experiment en doe een user test op vrijdag tijdens de code/design review
 6. Documenteer je proces in de wiki
