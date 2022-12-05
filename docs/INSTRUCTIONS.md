@@ -29,52 +29,30 @@ Vooral met micro-interacties kun je flink uitpakken.
 
 > Micro-interactions communicate status and provide feedback, enhance the sense of direct manipulation, help people visualize the results of their actions.
 
+
+Elke week ga je een creatieve oplossing ontwerpen en maken, en op vrijdag testen. Deze sprint ga je 3 experimenten maken.  
+
+
+## Aanpak
+
 Bekijk hier de website [7 secrets for enhancing UX with micro-interactions](https://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/) voor leuke voorbeelden en inspiratie.
 
 
-
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
+1. Kies of bedenk een experiment om te gaan maken
+2. Zoek inspiratie en schets een aantal ideeen uit in een wireflow
+4. Maak een breakdown-schets met hoe je het experiment in code zou kunnen maken
+5. Bouw je experiment en doe een user test op vrijdag tijdens de code/design review
+6. Documenteer je proces in de wiki
 
 
 
-### Testen
-Uitleg..
+### Materiaal
 
-#### Aanpak
+- Tutorial  [if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+- [Site of the day - Awwwards](https://www.awwwards.com/websites/)
+- [Playground Codrops](https://tympanus.net/codrops/category/playground/)
+- [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
 
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
 
@@ -86,6 +64,6 @@ Lerend vermogen: De student maakt aangeboden en zelf gevonden materie eigen, geb
 Deze opdracht is done als:
 
 - [ ] Je hebt 3 creative-coding experimenten ontworpen en gemaakt
-- [ ] Je hebt inde wuku  
-- [ ] ...
+- [ ] Je hebt in de wiki van de leertaak je proces gedocumenteerd
+- [ ] Je hebt in de Readme van de leertaak de experimenten gepresenteerd
 
