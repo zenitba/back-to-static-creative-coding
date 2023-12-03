@@ -51,8 +51,8 @@ Focus sprint 17 - De focus van deze sprint ligt op het generen van statische web
 Deze deeltaak hoort bij het gedragscriterium:  
 Lerend vermogen: De student maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen.
 
-Deze opdracht is done als:
-- [ ] Je hebt 3 creative-coding experimenten ontworpen en gemaakt
+Deze opdracht is done als je (in totaal 3x):
+- [ ] Je hebt een creative-coding experiment ontworpen en gemaakt
 - [ ] Je hebt in de wiki van de leertaak je proces gedocumenteerd
 - [ ] Je hebt in de Readme van de leertaak de experimenten gepresenteerd
 
