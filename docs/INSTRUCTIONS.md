@@ -35,10 +35,6 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 
 ### Materiaal
 
-Micro interacties ontwerpen en maken
-- [Wireframing User Flow with Wireflows](https://balsamiq.com/learn/articles/wireflows/)
-- Tutorial  [if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-
 Creative coding Inspiratie
 - [7 secrets for enhancing UX with micro-interactions](https://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/)
 - [Site of the day - Awwwards](https://www.awwwards.com/websites/)
