@@ -43,7 +43,9 @@
 ## Bronnen 🌐
 
 >https://loading.io/css/
+
 >https://nl.pinterest.com
+
 >https://cssloaders.github.io
 
 ## Licentie
