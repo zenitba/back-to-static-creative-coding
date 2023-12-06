@@ -1,11 +1,10 @@
 
-# SPAT-Water💧
+# Creative Coding SPAT-Water💧
 
 ## Beschrijving 📃
-Ontwikkel een website voor een opdrachtgever op basis van een component library.
 
-![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
+![4Sei](https://github.com/zenitba/back-to-static-creative-coding/assets/112856019/9c790827-1278-4358-8f27-1bcb6efd0d00)
 
 
 ## Inhoudsopgave
@@ -25,12 +24,6 @@ Ontwikkel een website voor een opdrachtgever op basis van een component library.
 ## Kenmerken ✅
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-
-**TOOLS 🧰:**
-* VSCode
-* Miro
-* Figma
-  
 **GEBRUIKTE TECHNIEKEN 🛠️:**
 
 * Svelte
@@ -39,12 +32,6 @@ Ontwikkel een website voor een opdrachtgever op basis van een component library.
 * JS
 * CSS
   
-**COMMUNICATIE MIDDELEN 🗣️:**
-
-* Team Canvas
-* Microsoft Teams
-* Calls
-
 ## Installatie ⚙️
 
 1. Clone of download deze repository naar de gewenste folder.
@@ -54,6 +41,10 @@ Ontwikkel een website voor een opdrachtgever op basis van een component library.
 5. Start een server met npm run dev.
 
 ## Bronnen 🌐
+
+>https://loading.io/css/
+>https://nl.pinterest.com
+>https://cssloaders.github.io
 
 ## Licentie
 This project is licensed under the terms of the MIT license.
