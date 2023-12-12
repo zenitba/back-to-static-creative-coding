@@ -26,6 +26,7 @@
 
 	<!--=============== SWIPER JS ===============-->
 	<script src="/assets/swiper-bundle.min.js"></script>
+	
 
 	<!--=============== LEAFLET JS ===============-->
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
@@ -34,16 +35,10 @@
 		integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
 
 </head>
-<div id="preloader"></div>
 
-<script>
-	var loader = document.getElementById("preloader");
-window.addEventListener("load", function(){
-loader.style.display = "none";
-})
-</script> 
 <body data-sveltekit-preload-data="hover">
 	<div style="display: contents">%sveltekit.body%</div>
+
 </body>
 
 </html>
@@ -113,13 +108,6 @@ loader.style.display = "none";
 	.leaflet-control {
 		display: none !important;
 	}
-	#preloader{
-		background: #ffffff url(assets/loader.gif) no-repeat center center;
-    background-size: 20%;
-    width: 100%;
-    height: 100vh; 
-    position: fixed;
-    z-index: 900;
-}
+
 
 </style>
