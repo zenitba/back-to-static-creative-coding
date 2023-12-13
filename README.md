@@ -4,7 +4,6 @@
 ## Beschrijving 📃
 
 
-![4Sei](https://github.com/zenitba/back-to-static-creative-coding/assets/112856019/9c790827-1278-4358-8f27-1bcb6efd0d00)
 
 
 ## Inhoudsopgave
