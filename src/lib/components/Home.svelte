@@ -102,10 +102,12 @@
     font-family: fantasy
       Papyrusb;
     font-weight: 700;
+    margin-top: -20px;
   }
 
   /* Hero Image */
   .hero-image {
+    margin-top: -20px;
     background-image: linear-gradient(
         rgba(
           0,
@@ -121,7 +123,7 @@
         )
       ),
       url("assets/eng.jpg");
-    height: 550px;
+    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -348,9 +350,6 @@
     }
   }
 
-  /* Spider Animation */
-  /* ... */
-
   /* Marquee */
   marquee {
     font-size: 3rem;
@@ -371,7 +370,7 @@
     }
 
     .hero-image {
-      height: 50%;
+      height: 100%;
     }
 
     .hero-text p {
@@ -383,7 +382,7 @@
     }
 
     marquee {
-      font-size: 2rem;
+      font-size: 1.2rem;
     }
   }
 
@@ -398,7 +397,7 @@
     }
 
     .hero-image {
-      height: 85%;
+      height: 100%;
     }
 
     .hero-text p {
