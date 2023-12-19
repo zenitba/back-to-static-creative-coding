@@ -123,7 +123,7 @@
         )
       ),
       url("assets/eng.jpg");
-    height: 500px;
+    height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
