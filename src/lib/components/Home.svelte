@@ -121,7 +121,7 @@
         )
       ),
       url("assets/eng.jpg");
-    height: 500px;
+    height: 550px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
