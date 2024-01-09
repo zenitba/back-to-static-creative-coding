@@ -1,415 +1,258 @@
 <script>
 </script>
 
-<main>
-  <h1 class="title">
-    SPATWATER
-  </h1>
-
-  <img
-    src="assets/eng.jpg"
-    alt="scary-image"
-    class="hero-image"
-  />
+<div
+  class="wave"
+></div>
+<div id="wrapper">
+  <!-- <div id="container">
+  
+          <h1>SPATWATER</h1>
+       
+      </div>
+  </div> -->
   <div
-    class="hero-text"
+    class="flex-center"
   >
-    <!-- Hero Text -->
-    <p>
-      OVER SPATWATER
-      OVER SPATWATER
-      OVER
-    </p>
-  </div>
-  <!-- Spider -->
-  <div
-    class="spider"
-  >
-    <!-- Spider Web -->
-    <div
-      class="spiderweb"
-    ></div>
-
-    <!-- Spider Body -->
-    <div
-      class="body"
-    >
-      <!-- Spider Eyes -->
+    <div>
       <div
-        class="eye left"
-      ></div>
-      <div
-        class="eye right"
-      ></div>
-    </div>
-
-    <!-- Spider Legs -->
-    <div
-      class="legs left"
-    >
-      <div
-        class="leg"
-      ></div>
-      <div
-        class="leg"
-      ></div>
-      <div
-        class="leg"
-      ></div>
-    </div>
-    <div
-      class="legs right"
-    >
-      <div
-        class="leg"
-      ></div>
-      <div
-        class="leg"
-      ></div>
-      <div
-        class="leg"
-      ></div>
+        class="flex"
+      >
+        <span
+          >S</span
+        >
+        <span
+          >P</span
+        >
+        <span
+          >A</span
+        >
+        <span
+          >T</span
+        >
+        <span
+          >W</span
+        >
+        <span
+          >A</span
+        >
+        <span
+          >T</span
+        >
+        <span
+          >E</span
+        >
+        <span
+          >R</span
+        >
+      </div>
     </div>
   </div>
-  <!-- Marquee -->
-  <!-- svelte-ignore a11y-distracting-elements -->
-  <marquee
-    width="100%"
-    direction="left"
-  >
-    <span
-      >EEN NIEUWE
-      GENERATIE
-      HYDROLGEN</span
-    >
-    <span
-      >CONCREET OP
-      WATER EN BODEM</span
-    >
-    <span
-      >WIJ ZIJN
-      SPATWATER</span
-    >
-  </marquee>
-</main>
+</div>
 
 <style>
-  /* Title */
-  h1 {
-    font-size: 9rem;
-    color: white;
-    text-align: center;
-    font-family: fantasy
-      Papyrusb;
-    font-weight: 700;
-    margin-top: -20px;
-  }
-
-  /* Hero Image */
-  .hero-image {
-    margin-top: -20px;
-    background-image: linear-gradient(
-        rgba(
-          0,
-          0,
-          0,
-          0.5
-        ),
-        rgba(
-          0,
-          0,
-          0,
-          0.5
-        )
-      ),
-      url("assets/eng.jpg");
-    height: 600px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    filter: grayscale(
-      0.5
-    );
-    width: 100%;
-    z-index: -1;
-  }
-
-  /* Hero Text */
-  .hero-text p {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    width: 1300px;
-    color: white;
-    font-weight: 600;
-    font-size: 3.5rem;
-    font-family: Papyrus;
-    display: inline-block;
-    text-align: center;
-    transform: rotate(
-      -90deg
-    );
-  }
-
-  /* Spider */
-  .spider {
-    position: absolute;
-    display: inline-block;
-    top: 0;
-    left: 10%;
-    animation: swing
-      2s infinite;
-    transform-origin: top;
-    transition: 1s
-      ease-in-out;
-    z-index: 200px;
-  }
-
-  .spider
-    .spiderweb {
-    width: 3px;
-    height: 290px;
-    margin-left: 49px;
-    background: rgba(
-      207,
-      207,
-      207,
-      0.61
-    );
-  }
-
-  .spider .body {
-    width: 100px;
-    height: 80px;
-    background: #000;
-    position: relative;
-    border-radius: 50%;
-  }
-
-  .spider
-    .body
-    .eye {
-    width: 33px;
-    height: 33px;
-    position: absolute;
-    bottom: 20px;
-    background: #fff;
-    border-radius: 50%;
-  }
-
-  .spider
-    .body
-    .eye.left {
-    left: 15px;
-  }
-
-  .spider
-    .body
-    .eye.right {
-    right: 15px;
-  }
-
-  .spider
-    .body
-    .eye:after {
-    background: #000;
-    width: 7px;
-    height: 7px;
+  .wave,
+  .wave::before,
+  .wave::after {
     content: "";
-    display: block;
-    margin: 55%;
-    border-radius: 50%;
-    animation: look
-      8s infinite;
-  }
-
-  .spider
-    .legs
-    .leg {
-    width: 80px;
-    height: 40px;
-    margin-top: -15px;
-    border: 5px
-      solid
-      transparent;
-    border-top-color: #000;
-    border-radius: 40px
-      40px 0 0;
-  }
-
-  .spider .legs {
     position: absolute;
-    bottom: -10%;
-    z-index: -1;
+    top: 70%;
+    left: 50%;
+    width: 250vw;
+    height: 250vw;
+    margin-left: -125vw;
+    transform-origin: 50%
+      50%;
+    background-color: transparent;
+    border-radius: 38%
+      42%;
+    box-shadow: inset
+      0 0 10vw
+      rgba(
+        255,
+        0,
+        247,
+        0.8
+      );
+    animation: spin
+      16s infinite
+      linear;
+    mix-blend-mode: multiply;
   }
 
-  .spider
-    .legs.left {
-    left: -70%;
+  .wave::before {
+    width: 105%;
+    height: 95%;
+    margin-top: -155vw;
+    transform-origin: 49%
+      51%;
+    border-radius: 40%
+      38%;
+    box-shadow: inset
+      0 0 10vw
+      rgba(
+        225,
+        255,
+        0,
+        0.8
+      );
+    animation: spin
+      13s infinite
+      linear;
   }
 
-  .spider
-    .legs.right {
-    right: -60%;
+  .wave::after {
+    width: 102%;
+    height: 98%;
+    margin-top: -155vw;
+    transform-origin: 51%
+      49%;
+    border-radius: 48%
+      42%;
+    box-shadow: inset
+      0 0 10vw
+      rgba(
+        0,
+        255,
+        255,
+        0.8
+      );
+    animation: spin
+      10s infinite
+      linear;
   }
 
-  .legs.left
-    .leg:nth-child(
-      1
-    ) {
-    transform: rotate(
-      10deg
-    );
-    margin-left: 10px;
-  }
-
-  .legs.right
-    .leg:nth-child(
-      1
-    ) {
-    transform: rotate(
-      -10deg
-    );
-    margin-left: -10px;
-  }
-
-  .legs.left
-    .leg:nth-child(
-      2
-    ) {
-    transform: rotate(
-      -20deg
-    );
-    margin-left: 20px;
-  }
-
-  .legs.right
-    .leg:nth-child(
-      2
-    ) {
-    transform: rotate(
-      20deg
-    );
-    margin-left: -20px;
-  }
-
-  .legs.left
-    .leg:nth-child(
-      3
-    ) {
-    transform: rotate(
-      -50deg
-    );
-    margin-left: 30px;
-  }
-
-  .legs.right
-    .leg:nth-child(
-      3
-    ) {
-    transform: rotate(
-      50deg
-    );
-    margin-left: -40px;
-  }
-
-  @keyframes look {
-    0%,
-    40%,
+  @keyframes spin {
     100% {
-      transform: translateX(
+      transform: rotate(
+        360deg
+      );
+    }
+  }
+
+  .flex-center {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+  }
+  .flex {
+    display: flex;
+  }
+  span {
+    display: block;
+    text-shadow: 0 0
+      10px #9f9f9f;
+    animation-name: cross-fade-blur;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    font-size: 5rem;
+    color: rgb(
+      255,
+      255,
+      255
+    );
+  }
+  span:nth-child(
+      1
+    ) {
+    animation-delay: 0.04s;
+  }
+  span:nth-child(
+      2
+    ) {
+    animation-delay: 0.08s;
+  }
+  span:nth-child(
+      3
+    ) {
+    animation-delay: 0.12s;
+  }
+  span:nth-child(
+      4
+    ) {
+    animation-delay: 0.16s;
+  }
+  span:nth-child(
+      5
+    ) {
+    animation-delay: 0.2s;
+  }
+  span:nth-child(
+      6
+    ) {
+    animation-delay: 0.24s;
+  }
+  span:nth-child(
+      7
+    ) {
+    animation-delay: 0.28s;
+  }
+  span:nth-child(
+      8
+    ) {
+    animation-delay: 0.32s;
+  }
+  span:nth-child(
+      9
+    ) {
+    animation-delay: 0.36s;
+  }
+  span:nth-child(
+      10
+    ) {
+    animation-delay: 0.4s;
+  }
+  @keyframes cross-fade-blur {
+    0% {
+      opacity: 0;
+      filter: blur(
+        1rem
+      );
+      transform: translate3d(
+          0,
+          3rem,
+          0
+        )
+        rotate3d(
+          0.25,
+          -1,
+          0,
+          66.6deg
+        );
+    }
+    20%,
+    60% {
+      opacity: 1;
+      filter: blur(
+        0px
+      );
+      transform: translate3d(
+        0,
+        0,
         0
       );
     }
-
-    45%,
-    95% {
-      transform: translateX(
-        -110%
-      );
-    }
-  }
-
-  @keyframes swing {
-    0%,
+    80%,
     100% {
-      transform: translateY(
-        0px
+      opacity: 0;
+      filter: blur(
+        1rem
       );
-    }
-    33% {
-      transform: translateY(
-        -200px
-      );
-    }
-    66% {
-      transform: translateY(
-        -600px
-      );
-    }
-  }
-
-  /* Marquee */
-  marquee {
-    font-size: 3rem;
-    font-weight: 700;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 6px 0;
-    width: 100vw;
-    flex-shrink: 0;
-  }
-
-  /* Media Queries */
-
-  /* Tablets */
-  @media screen and (max-width: 1023px) and (min-width: 768px) {
-    h1 {
-      font-size: 10rem;
-    }
-
-    .hero-image {
-      height: 100%;
-    }
-
-    .hero-text p {
-      display: none;
-    }
-
-    .spider {
-      display: none; /* Hide spider on tablets */
-    }
-
-    marquee {
-      font-size: 1.2rem;
-    }
-  }
-
-  /* Mobile */
-  @media screen and (max-width: 767px) {
-    main {
-      margin: 5px; /* Adjust body margin for mobile */
-    }
-
-    h1 {
-      font-size: 2rem;
-    }
-
-    .hero-image {
-      height: 100%;
-    }
-
-    .hero-text p {
-      display: none;
-    }
-
-    .spider {
-      display: none; /* Hide spider on mobile */
-    }
-
-    marquee {
-      font-size: 1.5rem;
+      transform: translate3d(
+          0,
+          -3rem,
+          0
+        )
+        rotate3d(
+          -0.25,
+          1,
+          0,
+          66.6deg
+        );
     }
   }
 </style>
